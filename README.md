@@ -143,11 +143,5 @@ The project includes comprehensive tests covering:
 - **MiddleOut**: Center calculation + bi-directional expansion
 - **Memory Efficiency**: Vector copying only when creating iterator
 
-### Performance
-- **Addition**: O(1) amortized
-- **Removal**: O(n) - removes all instances
-- **Sorted Iterators**: O(n log n) creation, O(1) scanning
-- **Simple Iterators**: O(n) creation, O(1) scanning
-
 ---
 **Author**: [idocohen963@gmail.com]
